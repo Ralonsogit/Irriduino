@@ -1,1 +1,5 @@
+title: Irriduino site
+logo: /assets/img/logo.png
+description: Jekyll theme 'leap day' customized for Irriduino
 theme: jekyll-theme-leap-day
+show_downloads: true
