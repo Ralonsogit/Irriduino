@@ -17,7 +17,7 @@ theme: jekyll-theme-leap-day
 
 show_downloads: true
 
-url: https://ralonsoafl.github.io/Irriduino
+url: https://ralonsoafl.github.io
 
 exclude:
   - LICENSE
