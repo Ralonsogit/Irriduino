@@ -1,5 +1,25 @@
-title: Irriduino site
+title: Irriduino
+
+description: Arduino project for an irrigation of a garden
+
+name: Roberto Alonso
+
+author:
+    name: Roberto Alonso
+    avatar: 
+    github: ralonsoafl
+
+github_username: ralonsoafl
+
 logo: /assets/img/logo.png
-description: Jekyll theme 'leap day' customized for Irriduino
+
 theme: jekyll-theme-leap-day
+
 show_downloads: true
+
+url: https://ralonsoafl.github.io/Irriduino
+
+exclude:
+  - LICENSE
+  - README.md
+  - assets/img
