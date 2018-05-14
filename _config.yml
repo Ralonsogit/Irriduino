@@ -1,10 +1,10 @@
-title: Irriduino2
+title: Irriduino3
 description: Arduino project for an irrigation of a garden
 name: Roberto Alonso
-# author:
-#     name: Roberto Alonso
-#     avatar: "https://avatars3.githubusercontent.com/u/3586109"
-#     github: "ralonsoafl"
+author:
+    name: Roberto Alonso
+    avatar: "https://avatars3.githubusercontent.com/u/3586109"
+    github: "ralonsoafl"
 repository: "Ralonsoafl/Irriduino"
 # url: "https://ralonsoafl.github.io/Irriduino"
 # baseurl: "/Irriduino"
