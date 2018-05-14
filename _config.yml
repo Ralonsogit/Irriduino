@@ -1,4 +1,4 @@
-title: Irriduino3
+title: Irriduino
 description: Arduino project for an irrigation of a garden
 name: Roberto Alonso
 author:
@@ -11,7 +11,7 @@ baseurl: "/Irriduino"
 logo: /assets/img/logo.png
 theme: jekyll-theme-leap-day
 show_downloads: true
-# exclude:
-#     - LICENSE
-#     - README.md
+exclude:
+    - LICENSE
+    - README.md
 #     - assets/img
