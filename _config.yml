@@ -9,7 +9,7 @@ author:
     avatar: 
     github: ralonsoafl
 
-github_username: ralonsoafl
+repository: ralonsoafl/Irriduino
 
 logo: /assets/img/logo.png
 
@@ -18,6 +18,6 @@ theme: jekyll-theme-leap-day
 show_downloads: true
 
 exclude:
-  - LICENSE
-  - README.md
-  - assets/img
+    - LICENSE
+    - README.md
+    - assets/img
