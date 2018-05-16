@@ -20,7 +20,7 @@ void setup() {
 
 // This function is going to be executed as an infinite loop
 void loop() {
-    // Show actual time
+    // Show current time
     Serial.print("It's ");
     Serial.print(String(hour()) + ":" + String(minute()) + ":" + String(second()));
 

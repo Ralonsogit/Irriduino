@@ -6,18 +6,18 @@ Arduino project for an irrigation of a garden using a water pump and a relay to 
 
 ## Features
 
-- Set hour/minute of irrigation
-- Set 
+- Set start/stop time of irrigation
+- Set current time manually
 
-## New features to come (opt = optional)
+## New features to come
 
 - Soil moisture sensor option
 - Graphic menu using a LCD to set parameters
 - Temperature and other info using a LCD
-- Different lines on the garden with different configuration for each (opt)
-- Water level sensor for the box of the water pump (opt)
-- Check the weather online (opt)
-- Check and set the time online (opt)
+- Different lines on the garden with different configuration for each (optional)
+- Water level sensor for the box of the water pump (optional)
+- Check the weather online (optional)
+- Check and set the time online (optional)
 
 ## Libraries used
 
